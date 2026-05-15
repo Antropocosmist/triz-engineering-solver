@@ -19,3 +19,6 @@ Feel free to submit new skills via pull requests. Each skill should include:
 - Expected outputs
 - Usage examples
 
+## Created by
+- https://github.com/Antropocosmist
+- Claude
